@@ -1,1 +1,2 @@
 .jupyterlite.doit.db
+notebooks/.ipynb_checkpoints/*
