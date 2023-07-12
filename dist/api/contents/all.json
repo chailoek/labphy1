@@ -26,30 +26,6 @@
     },
     {
       "content": null,
-      "created": "2023-06-29T11:05:28.238077Z",
-      "format": null,
-      "last_modified": "2023-06-29T11:05:28.238077Z",
-      "mimetype": null,
-      "name": "01-\u0e40\u0e25\u0e02\u0e19\u0e31\u0e22\u0e2a\u0e33\u0e04\u0e31\u0e0d\u0e2f.ipynb",
-      "path": "01-\u0e40\u0e25\u0e02\u0e19\u0e31\u0e22\u0e2a\u0e33\u0e04\u0e31\u0e0d\u0e2f.ipynb",
-      "size": 95324,
-      "type": "notebook",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2023-07-12T05:34:11.654403Z",
-      "format": null,
-      "last_modified": "2023-07-12T05:32:50.657397Z",
-      "mimetype": null,
-      "name": "LstSqr.ipynb",
-      "path": "LstSqr.ipynb",
-      "size": 76899,
-      "type": "notebook",
-      "writable": true
-    },
-    {
-      "content": null,
       "created": "2023-07-12T05:34:11.657737Z",
       "format": null,
       "last_modified": "2023-07-11T11:15:10.722197Z",
@@ -61,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2023-07-12T05:35:07.567961Z",
+  "created": "2023-07-12T05:39:20.975554Z",
   "format": "json",
-  "last_modified": "2023-07-12T05:35:07.567961Z",
+  "last_modified": "2023-07-12T05:39:20.975554Z",
   "mimetype": null,
   "name": "",
   "path": "",
