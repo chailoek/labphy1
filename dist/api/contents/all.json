@@ -2,6 +2,18 @@
   "content": [
     {
       "content": null,
+      "created": "2023-07-12T05:35:07.567961Z",
+      "format": null,
+      "last_modified": "2023-07-12T05:32:50.657397Z",
+      "mimetype": null,
+      "name": "\u0e01\u0e32\u0e23\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e14\u0e49\u0e27\u0e22\u0e2a\u0e21\u0e01\u0e32\u0e23\u0e40\u0e0a\u0e34\u0e07\u0e40\u0e2a\u0e49\u0e19.ipynb",
+      "path": "\u0e01\u0e32\u0e23\u0e27\u0e34\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c\u0e14\u0e49\u0e27\u0e22\u0e2a\u0e21\u0e01\u0e32\u0e23\u0e40\u0e0a\u0e34\u0e07\u0e40\u0e2a\u0e49\u0e19.ipynb",
+      "size": 76899,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
       "created": "2023-06-29T11:05:28.241410Z",
       "format": null,
       "last_modified": "2023-06-29T11:05:28.241410Z",
@@ -23,11 +35,35 @@
       "size": 95324,
       "type": "notebook",
       "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-07-12T05:34:11.654403Z",
+      "format": null,
+      "last_modified": "2023-07-12T05:32:50.657397Z",
+      "mimetype": null,
+      "name": "LstSqr.ipynb",
+      "path": "LstSqr.ipynb",
+      "size": 76899,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-07-12T05:34:11.657737Z",
+      "format": null,
+      "last_modified": "2023-07-11T11:15:10.722197Z",
+      "mimetype": "text/x-python",
+      "name": "labutils.py",
+      "path": "labutils.py",
+      "size": 388,
+      "type": "file",
+      "writable": true
     }
   ],
-  "created": "2023-06-29T11:05:28.238077Z",
+  "created": "2023-07-12T05:35:07.567961Z",
   "format": "json",
-  "last_modified": "2023-06-29T11:05:28.238077Z",
+  "last_modified": "2023-07-12T05:35:07.567961Z",
   "mimetype": null,
   "name": "",
   "path": "",
